@@ -1,0 +1,4 @@
+interface:
+  display_name: "磁铁捞耳机"
+  short_description: "定位、磁吸捞取并检测掉入排水口的耳机"
+  default_prompt: "使用 $magnet-earbud-recovery 帮我定位、捞取并处理掉入厕所或排水口的耳机。"
